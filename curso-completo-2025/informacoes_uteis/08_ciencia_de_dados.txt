@@ -1,0 +1,111 @@
+Cientista Vs Engenheiro
+
+Aspectos de Ciencia de Dados
+
+Machine Learning
+- Classificação
+- Agrupamentos
+- Regras de Associação
+
+Reinforcement Learning
+
+Busca e Otimização
+
+Algoritmos Géneticos
+
+Sistemas Especialistas
+
+Logica Difusa
+
+Processamento de Linguagem Natural
+
+----------
+
+Machine Learning
+
+Capacidade do computador aprender com dados
+
+** Classificação
+- Classificar um elemento em uma categoria, Exemplo:
+-- Classificar uma transação como Fraude: Sim ou Não
+-- Definir uma espécie de uma planta
+-- Classificar um cliente como bom ou mal pagador
+
+Medir a performance: Dados de Treino e Teste = 86%
+
+Redes Neurais Artificiais
+
+** Agrupamentos
+- Agrupa elementos, de acordo com o grau de semelhança e o algoritmo utilizado.
+Serve: Detectar acessos de Redes, Segmentação de clientes.
+
+** Regras de associação
+- Busca associaçãoentre itens
+- Uso clássico em cesta de compras: Cliente que comprou A + B também comprou C
+
+Métricas: Suporte, Confiança
+
+
+"""Não trabalha com dados históricos"""
+** Reinforcement Learning (Aprendizado por Reforço)
+- Como deve agir um agente de IA, em um ambiente a fim de solucionar um problema?
+
+- Proposta: Metodo de tentativas com acertos e erros
+- Recompensa por acertos
+
+Jogo "Quente ou Frio"
+
+** Busca e Otimização
+- Existem problmeas computacionais que ainda não foram resolvidos com uma equação ou formula. è preciso buscar uma possivel solução entre todas as coluções possiveis (espaço de busca)
+- Para muitos destes problemas, se acredita que tal equação não existe
+
+Exemplos: Encontrar a rota mais curta, Jogos de Tabuleiro (Xadrex), Jogo achar o caminho (Labirinto), Problemas de Agendamento, Problemas Logicos, Problema de Espaço.
+
+Porque não sempre uma busca completa?
+- Na maioria dos problemas é impossivel do ponto de vista de tempo e custo computacional
+- Jogo Go (tabuleiro 19x19)
+2.08168199382x10 elevado a 170
+"Mais que o numero de atomos conhecidos no Universo"
+
+** Local Optima
+- Alguns algoritmos buscam uma solução nas proximidades (vizinhanças)
+- Nestas vizinhanças eles podem encontrar uma solução, que localmente é a melhor
+- Quanto menos a vizinhança estabelecida, mais rápido ele vai encontrar a melhor solução localmente
+- Não há garantia de que esta seja a melhor solução global
+
+** Algoritmos Genéticos
+- Buscam imitar o processo de Evolução das Espécies
+- Simplificado, porém eficiente
+- Aplicado em problemas de busca, otimização, agendamento.
+
+Diferenças
+- Na natureza não existe condição de parada.
+
+Adaptação (Fitness)
+
+** Sistemas Especialistas
+- Ausencia de Dados
+- Problema novo
+-- Viagem a outro sistema solar
+-- Seguro de novo tipo de veiculo
+-Sigilo
+--Ameaça terrorista
+-- Fusão Nuclear
+
+Ausência de Dados:
+Especialista > Inferência > Base de Conhecimento
+(( Emula o especialista: Sistema Especialista))
+
+Reduz Incerteza
+
+Logica Difusa
+- Qualquer valor entre 0 e 1
+- Muito baixo, baixo, médio, alto, muito alto
+- Muito feio, feio, normal, bonito, muito bonito- Super lento, lento, rápido, muito rapido
+- Longe demais, meio longe, longe, proximo, meio proximo, proximo demis
+- Realmente quente, quente, morno, frio, realmente frio
+
+** Processamento de Linguagem Natural
+
+
+

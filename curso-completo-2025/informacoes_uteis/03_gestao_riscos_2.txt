@@ -1,0 +1,27 @@
+O projeto entrega valor?
+
+Cronograma x Custo
+
+Algo que não passa confiança para tomada de valor.
+
+Os critérios de sucesso estão claros?
+
+O projeto está em conformidade com as diretivas de Governança de Dados da Organização/Legislação?
+
+O dado é o principal patrimonio da organização.
+
+Politicas de:
+- Acesso
+- Segurança
+- Guarda
+- Backup
+
+O projeto prevê o crescimento da solução?
+A solução é escalavel?
+
+Quais são os requisitos de disponibilidade?
+- Mais disponibilidade + custo (detecção de fraudes em tempo real)
+- Menos dipsonibilidade - custo (folha de pagamento que roda apenas uma vez ao mes)
+
+Manuais de implantação, manutenção estão planejados?
+

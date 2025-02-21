@@ -1,0 +1,36 @@
+Analise de Viabilidade
+- Prova de conceito: fração do que será desenvolvido
+- Protótipo: tenta simular todo o sistema ou grande parte dele
+- Piloto: Sistema oficial é implementado e testado
+
+Cuidado com as MEDIDAS!!!
+Investigue e envolva os especialistas das areas.
+Cuidado pois as medidas podem estar incorretas (calculos incorretos)
+
+Modelos
+- Taxa de acerto atende o negocio?
+- Aexistem atributos suficientes para treinar o modelo?
+- Existe dados com qualidade minima?
+
+Tempo de Projeto
+
+Segurança e Privacidade
+- Verifique a comunicação dos nós
+- Ataques
+
+Requisitos de cultura e idioma estão claros?
+
+Existe um plano de testes?
+- Ferramentas de automação de testes
+
+Imaturidade (Ex: Hadoop)
+
+Hype Cicle (Gartner)
+
+- Technology Trigger - Periodo de incubação
+- Peak of Inflated Expectations: Promessas de um produto maravilhoro, estável, altamente funcional
+- Trough of Dissilusionment: Usuários começam a enfrentar problemas diversos (segurança, integração, disponibilidade)
+- Slope of Enlightenment: Começa a ser usado em maior volume e se a estabilizar
+- Plateau of Productividy: O produto se consolida
+
+

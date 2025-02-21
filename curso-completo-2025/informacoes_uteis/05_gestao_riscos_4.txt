@@ -1,0 +1,38 @@
+Orçamentos inadequado
+
+Não são baratos
+
+Mão de obra qualificada
+
+Diversos tipos de tecnologias envolvidos:
+- Software para processar dados
+- Software de segurança
+- Software de dashboards
+- Software para auditoria
+- Software para ingestão de dados
+- Software para configuração e automação de testes
+
+Grande investimento para criação de clusters ou commodity hardware.
+
+Eliminar falsas ilusões para orçamentos, demosntres os custos aproximados do projeto: mão de obra, tercerização, software, infre-estrutura de hardware
+
+Foi planejado um orçamento para contigencia?
+Para o que não foi esperado.
+
+As necessidades de aquisições são conhecidas?
+
+O tempo para entregas pelos fornecedores é conhecido e atende os requisitos do projeto?
+
+Os criterios de seleção de fornecedores estão estabelecidos?
+- Equipamentos
+- Software
+- Qual a maturidade?
+
+É possivel responder questões dos prováveis fornecedores?
+- Qual é a taxa de transferencia de dados
+- Qual o volume esperado de crescimento
+- Qual a latencia da informação
+- Quais são os requisitos de segurança: vai precisar de criptografia dos dados, autenticação, autorização, os dados vão trafegar em SSL
+
+
+

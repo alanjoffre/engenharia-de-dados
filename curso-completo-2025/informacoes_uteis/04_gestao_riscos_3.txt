@@ -1,0 +1,24 @@
+Existe um plano para avaliar a qualidade de dados?
+
+Existe um plano limpeza e tratamento de dados?
+
+Todas as fontes de dados do projeto foram identificadas?
+
+Cuidado com sistemas: Sombra
+- planilhas
+- pastas privadas
+
+
+Todas as fontes de dados do projeto são acessiveis?
+
+Os dados estão criptografados? (chave privada e não é publica)
+
+As fontes de dados possuem documentação apropriada?
+
+Ferramenta Snifer, que a operação é efetuada e ele vai informando o que é acessado...
+
+A latencia entre a produção da informação e carga é sufuciente/variavel para a produção de valor?
+
+
+
+

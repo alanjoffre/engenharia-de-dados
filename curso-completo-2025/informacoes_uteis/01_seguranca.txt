@@ -1,0 +1,26 @@
+HDFS pode operar sem nenhum tipo de autenticação e autorização ou pode usar LDAP,
+Active Directory, Kerberos e X.509
+
+Kerberos pode autenticar usuários e nós
+
+Kerberos é utilizado também em Windows
+
+Data At Rest (Dados parado em Disco)
+
+Apache Ranger
+
+Auditoria e Logs
+- Scribe (Facebook)
+- LogStach (Elastic)
+- Log4J (em java)
+
+Apache: Sentry
+- Solução granular e modular de Segurança para o Ecossistema Hadoop
+- Plugins para Hive, Solr, Impala e HDFS
+- Composto por:
+-- Sentry Server
+-- Data Engine (Hive)
+-- Sentry Plugin
+
+
+

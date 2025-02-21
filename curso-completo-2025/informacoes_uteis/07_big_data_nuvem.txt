@@ -1,0 +1,50 @@
+Infraestrutura
+
+Softwares
+- Software de processamento de dados
+- Software de ingestão de dados
+- Software de apresentação de dados
+- Software de tratamento de dados
+- Software de qualidade
+- Software de apresentação, geração de relatórios
+- Software de backup
+- Software de segurança
+
+Gerenciador de Banco de Dados
+
+Dados
+
+Sistema Operacional
+
+Servidores
+
+Armazenamento
+
+Rede
+
+Segurança
+
+Backup
+
+Opções: Cloud Vs On-Primeses VS Hibrido
+
+On-Primeses
+- Controle total
+- Altos investimentos: Segurança, Hardware
+- Implantação, configuração, atualização
+- Espaço Ocupado
+- Licença e controle de licenças de software
+- Suporte
+- Disponibilidade menor
+- Escabilidade dificil
+
+Cloud
+- Sujeito a SLAs
+- Hardware Comodite
+- Escabilidade Fácil
+- Configuração e atualização transparente
+- Pode contratar backup, segurança, redundancia
+- Sem custos com licenças
+- Sem grandes investimentos
+
+
