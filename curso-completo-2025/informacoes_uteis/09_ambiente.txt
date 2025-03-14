@@ -1,0 +1,37 @@
+Ambiente
+
+Objetivos
+
+- Estudar conceitos: 
+-- Banco de dados Relacionais (Postgree) / NoSQL (MongoDB / Redis)- Fundamentos Não relacionados a produto.
+-- Ferramenta não relacionadas a produto
+-- Ferramentas indispensaveis: Spark
+-- Linha de comando (Linux)
+
+- Computação na Nuvem: AWS
+
+- EC2: Ambiente Virtual na Nuvem:
+
+----------
+
+EC2
+- Serviço do AWS onde podemos criar uma maquina virtual
+-- Linux Ubuntu
+-- Conectamos a esta Maquina Virtual por SSH: Secure Socket Shell
+
+----------
+
+SSH
+
+- Já é nativo em SO baseados em Unix e Windows
+- Caso seu SO não possua SSH, você deve baixar e instalar um cliente: PuTTY
+
+----------
+
+Etapas
+
+- Criar uma conta no AWS
+- Criar uma instância EC2
+--Inclui, criar e salvar no seu computador um par de chaves privadas
+--Conectar a esta Instância EC2 por SSH
+
